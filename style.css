@@ -80,3 +80,8 @@ a:link {color: black;}
 a:visited {color: gray;}
 a:hover {color: lightblue;}
 a:active {color:lightgray;}
+
+full {
+    width: 100%;
+    display: flex;
+  }
